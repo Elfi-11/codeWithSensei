@@ -1,0 +1,11 @@
+# environnement virtuel Python
+venv/
+__pycache__/
+*.pyc
+
+# fichiers cachés et systèmes
+.DS_Store
+*.log
+
+# fichiers de config perso
+.env

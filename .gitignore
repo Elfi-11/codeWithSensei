@@ -1,0 +1,8 @@
+# global
+*.sqlite3
+*.db
+*.csv
+*.zip
+
+# cache Vite
+frontend/.vite/
